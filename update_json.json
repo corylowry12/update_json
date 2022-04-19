@@ -5,6 +5,7 @@
     {"title":"There are currently no known issues"}
     ],
   "roadmap":[  
-    {"title":"There are currently no upcoming features"}
+      {"title":"Add ability to export hours into \"Time Cards\""},
+      {"title":"Add ability to select and delete multiple entries at the same time"}
     ]
 }  
