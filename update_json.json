@@ -1,6 +1,5 @@
 {"update":[  
-    {"date":"03/25/2022","title":"Version 9.1.1 Update Rolling Out","body":"There is currently an update rolling out which includes but is not limited to:\n- Tons of bug fixes\n- A couple new features"},
-     {"date":"03/25/2022","title":"Version 9.1.1 Update Rolling Out","body":"There is currently an update rolling out which includes but is not limited to:\n- Tons of bug fixes\n- A couple new features"}
+    {"date":"03/25/2022","title":"Version 9.1.1 Update Rolling Out","body":"There is currently an update rolling out which includes but is not limited to:\n- Tons of bug fixes\n- A couple new features"}
     ],
   "known issues":[  
     {"title":"03/27/2022","title":"Version 1.56 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes for App News\n-Support for more sections in App News\n-Redesigned Patch Notes"},
