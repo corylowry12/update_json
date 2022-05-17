@@ -2,10 +2,10 @@
     {"date":"03/25/2022","title":"Version 9.1.1 Update Rolling Out","body":"There is currently an update rolling out which includes but is not limited to:\n- Tons of bug fixes\n- A couple new features"}
     ],
   "known issues":[  
-    {"title":"No known issues"}
+    {"title":"No known issues", "status": true}
     ],
   "roadmap":[  
-     {"title":"Add ability to export hours to \"Time Cards\""},
-    {"title":"Add ability to select and delete multiple hours at the same time"}
+     {"title":"Add ability to export hours to \"Time Cards\"", "status": false},
+    {"title":"Add ability to select and delete multiple hours at the same time", "status": true}
     ]
 }  
