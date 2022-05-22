@@ -1,4 +1,5 @@
 {"update":[  
+     {"date":"05/22/22","title":"Version 9.2.1 Rolling Out","body":"Version 9.2.1 is currently rolling out which removes a toast message that displays when changing the date when editing an entry."},
      {"date":"05/16/22","title":"Version 9.2.0 Rolling Out","body":"Version 9.2.0 is currently rolling out and inclues tons of fixes and changes."},
     {"date":"02/12/2022","title":"Version 9.1.0 Rolling Out","body":"There is currently an update rolling out which includes many bug fixes"}
     ],
