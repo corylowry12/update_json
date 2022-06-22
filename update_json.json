@@ -1,4 +1,7 @@
 {"update":[
+     {"date":"06/19/22","title":"Version 9.2.6 Rolling Out","body":"Version 9.2.6 is currently rolling out with some new features"},
+     {"date":"06/02/22","title":"Version 9.2.5 Rolling Out","body":"Version 9.2.5 is currently rolling out with more fixes for bugs introduced in 9.2.0"},
+     {"date":"05/24/22","title":"Version 9.2.4 Rolling Out","body":"Version 9.2.4 is currently rolling out with more fixes for bugs introduced in 9.2.0"},
      {"date":"05/24/22","title":"Version 9.2.3 Rolling Out","body":"Version 9.2.3 is currently rolling out with more fixes for bugs introduced in 9.2.0"},
      {"date":"05/23/22","title":"Version 9.2.2 Rolling Out","body":"Version 9.2.2 is currently rolling out with another fix for checkboxes that was introduced in version 9.2.0"},
      {"date":"05/22/22","title":"Version 9.2.1 Rolling Out","body":"Version 9.2.1 is currently rolling out which removes a toast message that displays when changing the date when editing an entry."},
